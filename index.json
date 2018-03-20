@@ -1,0 +1,32 @@
+{
+  "TodoList": [
+    {
+      "id": 1,
+      "name": "Hit the gym"
+    },
+    {
+      "id": 2,
+      "name": "Meet George"
+    },
+    {
+      "id": 3,
+      "name": "Buy eggs"
+    },
+    {
+      "id": 4,
+      "name": "Read the book"
+    },
+    {
+      "id": 5,
+      "name": "Organize office"
+    },
+    {
+      "id": "6",
+      "name": "oopopo"
+    },
+    {
+      "id": "7",
+      "name": "mlkjui"
+    }
+  ]
+}
